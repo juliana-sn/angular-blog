@@ -1,0 +1,11 @@
+
+.menu-container > ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.menu-container > ul > li {
+  margin-right: 20px;
+  list-style: none;
+  font-size: 18px;
+}
