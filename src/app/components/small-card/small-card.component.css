@@ -1,5 +1,6 @@
 .small-card{
   width: 700px;
+  height: 200px;
 }
 
 .conteiner-small-card{
@@ -16,13 +17,14 @@
 .small-card-image > a > img {
   width: 200px;
   min-width: 200px;
+
 }
 
 .small-card-text > a > h3{
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 500;
 }
 
 .small-card-separator{
- margin-bottom: 5px;
+ margin-bottom: 10px;
 }
